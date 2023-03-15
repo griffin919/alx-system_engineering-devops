@@ -1,0 +1,3 @@
+#!/bin/bash
+#A script the prints environmental variables
+printenv
