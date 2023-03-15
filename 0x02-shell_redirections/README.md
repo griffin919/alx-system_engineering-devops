@@ -1,1 +1,1 @@
-README for git redirects task
+README for shell redirects task
